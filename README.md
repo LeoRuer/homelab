@@ -1,7 +1,9 @@
 # 🏡 Mon Homelab
 
 Ce dépôt documente la conception, la configuration et l'évolution de mon homelab personnel, centré autour d’un routeur MikroTik et d’un réseau segmenté pour héberger mes propres services à domicile.
-🔧 Objectifs
+[Voir le homelab en ligne](https://www.canva.com/design/DAGnoILc0_c/__cwmvbNbSGJTWIP6RKAGw/edit?utm_content=DAGnoILc0_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+# 🔧 Objectifs
 
     Apprendre les bases du réseau avancé (VLAN, routage, NAT, firewall, DNS, DHCP…).
 
