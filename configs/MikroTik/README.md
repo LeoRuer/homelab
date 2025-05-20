@@ -1,7 +1,7 @@
 
 <img src="https://github.com/LeoRuer/homelab/blob/main/configs/MikroTik/img/mikrotik.png?raw=true" alt="Mikrotik" style="width:400px;"/>
 
-Mikrotik est une entreprise d'équipement réseau basé en Lettonie. Pourquoi ce choix ?
+Mikrotik est une entreprise d'équipement réseau basé en Lettonie. Pourquoi ce choix de routeur dans mon homelab ?
 
 - Excellent rapport qualité-prix
 - Une communauté active et un support fiable
