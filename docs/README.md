@@ -32,7 +32,7 @@ comment les FAI échangent du trafic, routent des préfixes IP, automatisent leu
 - Mise en place de **ZTP-like** pour les équipements réseau
 
 ### 📊 Supervision & observabilité
-- Collecte de métriques réseau avec **Zabbix / SNMP **
+- Collecte de métriques réseau avec **Zabbix / SNMP**
 - Mise en place de dashboards et d’alertes
 - Centralisation des logs avec **ELK** ou **Graylog**
 
